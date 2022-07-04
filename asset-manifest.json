@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/FigmaApp/static/js/app.ee68c7f4.chunk.js",
-    "app.js.map": "/FigmaApp/static/js/app.ee68c7f4.chunk.js.map",
+    "app.js": "/FigmaApp/static/js/app.8b89992b.chunk.js",
+    "app.js.map": "/FigmaApp/static/js/app.8b89992b.chunk.js.map",
     "runtime~app.js": "/FigmaApp/static/js/runtime~app.f1f6fd5d.js",
     "runtime~app.js.map": "/FigmaApp/static/js/runtime~app.f1f6fd5d.js.map",
-    "static/js/2.93cce028.chunk.js": "/FigmaApp/static/js/2.93cce028.chunk.js",
-    "static/js/2.93cce028.chunk.js.map": "/FigmaApp/static/js/2.93cce028.chunk.js.map",
+    "static/js/2.ca904cd0.chunk.js": "/FigmaApp/static/js/2.ca904cd0.chunk.js",
+    "static/js/2.ca904cd0.chunk.js.map": "/FigmaApp/static/js/2.ca904cd0.chunk.js.map",
     "fonts/MaterialCommunityIcons.ttf": "/FigmaApp/./fonts/MaterialCommunityIcons.ttf",
     "favicon-16.png": "/FigmaApp/favicon-16.png",
     "favicon-32.png": "/FigmaApp/favicon-32.png",
@@ -13,11 +13,11 @@
     "index.html": "/FigmaApp/index.html",
     "manifest.json": "/FigmaApp/manifest.json",
     "serve.json": "/FigmaApp/serve.json",
-    "static/js/2.93cce028.chunk.js.LICENSE.txt": "/FigmaApp/static/js/2.93cce028.chunk.js.LICENSE.txt"
+    "static/js/2.ca904cd0.chunk.js.LICENSE.txt": "/FigmaApp/static/js/2.ca904cd0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime~app.f1f6fd5d.js",
-    "static/js/2.93cce028.chunk.js",
-    "static/js/app.ee68c7f4.chunk.js"
+    "static/js/2.ca904cd0.chunk.js",
+    "static/js/app.8b89992b.chunk.js"
   ]
 }
